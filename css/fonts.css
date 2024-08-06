@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Gilroy";
+  font-weight: 400;
+  font-style: normal;
+  src:
+    url("../fonts/gilroy-regular.eot") format("eot"),
+    url("../fonts/gilroy-regular.woff") format("woff"),
+    url("../fonts/gilroy-regular.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-weight: 500;
+  font-style: normal;
+  src:
+    url("../fonts/gilroy-medium.eot") format("eot"),
+    url("../fonts/gilroy-medium.woff") format("woff"),
+    url("../fonts/gilroy-medium.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-weight: 600;
+  font-style: normal;
+  src:
+    url("../fonts/gilroy-semiBold.eot") format("eot"),
+    url("../fonts/gilroy-semiBold.woff") format("woff"),
+    url("../fonts/gilroy-semiBold.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-weight: 600;
+  font-style: italic;
+  src:
+    url("../fonts/gilroy-semiBoldItalic.eot") format("eot"),
+    url("../fonts/gilroy-semiBoldItalic.woff") format("woff"),
+    url("../fonts/gilroy-semiBoldItalic.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-weight: 700;
+  font-style: normal;
+  src:
+    url("../fonts/gilroy-bold.eot") format("eot"),
+    url("../fonts/gilroy-bold.woff") format("woff"),
+    url("../fonts/gilroy-bold.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-weight: 800;
+  font-style: normal;
+  src:
+    url("../fonts/gilroy-extraBold.eot") format("eot"),
+    url("../fonts/gilroy-extraBold.woff") format("woff"),
+    url("../fonts/gilroy-extraBold.woff2") format("woff2");
+  font-display: swap;
+}
