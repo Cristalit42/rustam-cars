@@ -1992,6 +1992,10 @@ body {
             justify-content: space-between;
     padding: 0px;
   }
+  .contacts__socials-icon {
+    width: 25px;
+    height: 25px;
+  }
 }
 @media (max-width: 870px) {
   .header__top-inner {
@@ -2300,5 +2304,11 @@ body {
   }
   .footer__content-text {
     font-size: 12px;
+  }
+  .advantages .container {
+    padding: 0px 5px;
+  }
+  .contacts__content-info {
+    margin-left: 80px;
   }
 }

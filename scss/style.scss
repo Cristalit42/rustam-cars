@@ -411,6 +411,7 @@ body {
 
 .advantages__inner {
   padding-bottom: 180px;
+
 }
 
 .advantages__title {
@@ -1964,6 +1965,12 @@ body {
     padding: 0px;
   }
 
+  .contacts__socials-icon{
+    width: 25px;
+    height: 25px;
+  }
+
+
   //1050px end
 }
 
@@ -2320,6 +2327,15 @@ body {
     font-size: 12px;
   }
   
+  .advantages{
+    .container{
+      padding: 0px 5px;
+    }
+  }
+
+  .contacts__content-info{
+    margin-left: 80px;
+  }
   //550px end
 }
 
